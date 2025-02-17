@@ -1,16 +1,15 @@
-# lastone
+#Travel Mobile Application 
+
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tools: Flutter, Dart, Firebase, UI/UX, Python (Fuzzy Logic Model) [§]
+∗ Developed a Flutter-based mobile app for travel assistance, featuring itinerary planning .
+∗ Implemented Firebase for authentication and real-time data storage, ensuring secure and efficient user access.
+∗ Applied a fuzzy logic AI model to recommend the best journey options (restaurants, hotels, activities, airlines) in
+Alexandria based on users’ answers from MCQ questions.
+*make a wallet to Book a flight ticket
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
