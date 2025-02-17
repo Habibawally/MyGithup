@@ -1,7 +1,7 @@
-#Travel Mobile Application 
+#A new Flutter project:-
+Travel Mobile Application 
 
 
-A new Flutter project.
 
 ## Getting Started
 
