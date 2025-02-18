@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm an aspiring **AI/ML engineer** and **Computer 
 - 📚 **Natural Language Processing (NLP)**
 
 - 🧬 **Bioinformatics**
-- 💊 **Drug Design**
 - 🧫 **Computational Biology**
 - 🧩 **Protein Structural & Sequential Analysis**
 
