@@ -84,9 +84,8 @@ Contributions are welcome! Feel free to **fork** this repo, make improvements, a
 ---
 
 ## 📬 Contact
-📧 Email: [your.email@example.com](habibawally35@gmail.com)  
-🌍 LinkedIn: [Your Profile](www.linkedin.com/in/habiba-wally)  
-📂 GitHub: [Your GitHub]([https://github.com/your-username](https://github.com/Habibawally))  
+📧 Email: [habibawally35@gmail.com](habibawally35@gmail.com)  
+🌍 LinkedIn: [habiba-wally](www.linkedin.com/in/habiba-wally)  
 
 ---
 
